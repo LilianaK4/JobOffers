@@ -1,4 +1,4 @@
-package pl.jobOffers;
+package pl.juniorjoboffers;
 
 public class jobOffersApplication {
 }
